@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bla bla bla
 bla bla bla 22
+=======
+bla bla bla dupadupadupa
+>>>>>>> 7596c2be214fc4724568173b306d15a48ebb706f
